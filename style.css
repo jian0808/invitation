@@ -65,11 +65,11 @@
     align-items: center;
     gap: 15px;
     margin-bottom: 3vw;
-    font-size: 2.9vw;
+    font-size: 3.2vw;
     letter-spacing: -0.8px;
 }
 .party_info li h4 {
-    width: 13.5vw;
+    /* width: 13.5vw; */
     padding: 1vw 1.5vw;
     color: #fff;
     background: #d4af37;
